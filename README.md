@@ -46,7 +46,9 @@ You have worked over the last few weeks, mentoring with Jill to gain a backgroun
 
 •	Balanced Accuracy Score:
 
-![alttext](https://github.com/mbehr11/Credit_Risk_Analysis/blob/main/Resources/accuracy_score_logistic.PNG)
+
+![alttext](https://github.com/mbehr11/Credit_Risk_Analysis/blob/main/Resources/accuract_score_logistic.PNG)
+
 
 •	Confusion Matrix:
 
