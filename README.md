@@ -120,6 +120,7 @@ You have worked over the last few weeks, mentoring with Jill to gain a backgroun
 •	Smoteen Model:
 
 
+
 ![alttext](https://github.com/mbehr11/Credit_Risk_Analysis/blob/main/Resources/smoteen_model.PNG)
 
 
