@@ -114,35 +114,35 @@ You have worked over the last few weeks, mentoring with Jill to gain a backgroun
 ![alttext](https://github.com/mbehr11/Credit_Risk_Analysis/blob/main/Resources/classification_report_undersampling.PNG)
 
 
-2.	## Use the SMOTEENN algorithm to Predict Credit Risk
+2.	Use the SMOTEENN algorithm to Predict Credit Risk
 	
 
-•	Smoteen Model:
+•	## Smoteen Model:
 
 
 
 ![alttext](https://github.com/mbehr11/Credit_Risk_Analysis/blob/main/Resources/smoteen_model.PNG)
 
 
-•	Logistic Regression:
+•	### Logistic Regression:
 
 
 ![alttext](https://github.com/mbehr11/Credit_Risk_Analysis/blob/main/Resources/logisticregression_smoteen.PNG)
 
 
-•	Balanced Accuracy Score:
+•	### Balanced Accuracy Score:
 
 
 ![alttext](https://github.com/mbehr11/Credit_Risk_Analysis/blob/main/Resources/accuracy_score_smoteen.PNG)
 
 
-•	Confusion Matrix:
+•	### Confusion Matrix:
 
 
 ![alttext](https://github.com/mbehr11/Credit_Risk_Analysis/blob/main/Resources/confusion_matrix_smoteen.PNG)
 
 
-•	Classification Report:
+•	### Classification Report:
 
 
 ![alttext](https://github.com/mbehr11/Credit_Risk_Analysis/blob/main/Resources/classification_report_smoteen.PNG)
@@ -155,6 +155,7 @@ You have worked over the last few weeks, mentoring with Jill to gain a backgroun
 
 
 •	![alttext](https://github.com/mbehr11/Credit_Risk_Analysis/blob/main/Resources/accuracy_score_randomforest.PNG)
+
 
 •	Confusion Matrix:
 
