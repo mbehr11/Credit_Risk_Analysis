@@ -4,7 +4,8 @@ Supervised Machine Learning and Credit Risk week 17
 Working with Supervised Machine Learning through Jupyter Notebook
 ## Overview of MechaCar_Challenge_Analysis:
 
-You have worked over the last few weeks, mentoring with Jill to gain a background in supervised machine learning. After studying, you are comfortable preforming data preparation, statistical reasoning and know the basics behind machine learning. Jill is now looking for you to apply your skills in a real-life scenario credit card risk. After getting the data from LendingClub, we will utilize what we learned from imbalanced-learn and scikit learn to build models. Then taking our knowledge of RandomOverSampler, and ClusteringCenteroids algorithm and tying in the Smoteen algorithm in to oversample the data. From there we will be comparing the data utilizing the BalancedRandomForestClassifier and EasyEnsembleClasifyier machine learning modules to help reduce bias and best asses credit risk/ 
+You have worked over the last few weeks, mentoring with Jill to gain a background in supervised machine learning. After studying, you are comfortable preforming data preparation, statistical reasoning and know the basics behind machine learning. Jill is now looking for you to apply your skills in a real-life scenario credit card risk. After getting the data from LendingClub, we will utilize what we learned from imbalanced-learn and scikit learn to build models. Then taking our knowledge of RandomOverSampler, and ClusteringCenteroids algorithm and tying in the Smoteen algorithm in to oversample the data. From there we will be comparing the data utilizing the BalancedRandomForestClassifier and EasyEnsembleClasifyier machine learning modules to help reduce bias and best asses credit risk. 
+
 #### The below pseudocode provided us an outline for the analysis ####
 •	Deliverable 1:  Use Resampling Models to Predict Credit Risk
 
