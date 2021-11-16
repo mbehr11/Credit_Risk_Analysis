@@ -29,7 +29,9 @@ You have worked over the last few weeks, mentoring with Jill to gain a backgroun
 
 ## Resampling training data:
 •	Logistic Regression Classifier:
+
 ![alttext](https://github.com/mbehr11/Credit_Risk_Analysis/blob/main/Resources/logisticregression_randomoversampler.PNG)
+
 
 •	Balanced Accuracy Score:
 ![alttext](https://github.com/mbehr11/Credit_Risk_Analysis/blob/main/Resources/accuracy_score_logistic.PNG)
@@ -45,17 +47,21 @@ You have worked over the last few weeks, mentoring with Jill to gain a backgroun
 ## Smote Oversampling:
 •	Logistic Regression Classifier:
 
+
 ![alttext](https://github.com/mbehr11/Credit_Risk_Analysis/blob/main/Resources/logisticregression_smote.PNG)
 
 •	Balanced Accuracy Score:
+
 
 ![alttext](https://github.com/mbehr11/Credit_Risk_Analysis/blob/main/Resources/logisticregression_smote.PNG)
 
 •	Confusion Matrix:
 
+
 ![alttext](https://github.com/mbehr11/Credit_Risk_Analysis/blob/main/Resources/logisticregression_smote.PNG)
 
 •	Classification Report:
+
 
 ![alttext](https://github.com/mbehr11/Credit_Risk_Analysis/blob/main/Resources/classification_report_logistic.PNG)
 
@@ -63,21 +69,26 @@ You have worked over the last few weeks, mentoring with Jill to gain a backgroun
 
 •	ClusterCentroids resampler:
 
+
 ![alttext](https://github.com/mbehr11/Credit_Risk_Analysis/blob/main/Resources/clustercentriods_undersampling.PNG)
 
 •	Logistic Regression:
+
 
 ![alttext](https://github.com/mbehr11/Credit_Risk_Analysis/blob/mainResources/logisticregression_undersampling.PNG)
 
 •	Balanced Accuracy Score:
 
+
 ![alttext](https://github.com/mbehr11/Credit_Risk_Analysis/blob/main/Resources/accuracy_score_undersampling.PNG)
 
 •	Confusion Matrix:
 
+
 ![alttext](https://github.com/mbehr11/Credit_Risk_Analysis/blob/main/Resources/confusion_matrix_undersampling.PNG)
 
 •	Classification Report:
+
 
 ![alttext](https://github.com/mbehr11/Credit_Risk_Analysis/blob/main/Resources/classification_report_undersampling.PNG)
 
@@ -102,19 +113,24 @@ You have worked over the last few weeks, mentoring with Jill to gain a backgroun
 
 •	Classification Report:
 
+
 ![alttext](https://github.com/mbehr11/Credit_Risk_Analysis/blob/main/Resources/classification_report_smoteen.PNG)
+
 
 3.	## Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 
 •	Balanced Accuracy Score:
 
+
 •	![alttext](https://github.com/mbehr11/Credit_Risk_Analysis/blob/main/Resources/accuracy_score_randomforest.PNG)
 
 •	Confusion Matrix:
 
+
 ![alttext](https://github.com/mbehr11/Credit_Risk_Analysis/blob/main/Resources/confusion_matrix_randomforest.PNG)
 
 •	Classification Report:
+
 
 ![alttext](https://github.com/mbehr11/Credit_Risk_Analysis/blob/main/Resources/classification_randomforest.PNG)
 
