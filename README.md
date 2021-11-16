@@ -102,7 +102,8 @@ You have worked over the last few weeks, mentoring with Jill to gain a backgroun
 •	Confusion Matrix:
 
 
-![alttext](https://github.com/mbehr11/Credit_Risk_Analysis/blob/main/Resources/confusion_matrix_undersampling.PNG)
+![alttext](https://github.com/mbehr11/Credit_Risk_Analysis/blob/main/Resources/logisticregression_undersampling.PNG)
+
 
 •	Classification Report:
 
