@@ -62,6 +62,7 @@ You have worked over the last few weeks, mentoring with Jill to gain a backgroun
 
 ## Smote Oversampling:
 
+
 •	Logistic Regression Classifier:
 
 
@@ -114,7 +115,7 @@ You have worked over the last few weeks, mentoring with Jill to gain a backgroun
 
 
 2.	## Use the SMOTEENN algorithm to Predict Credit Risk
-3.	
+	
 
 •	Smoteen Model:
 
@@ -148,6 +149,7 @@ You have worked over the last few weeks, mentoring with Jill to gain a backgroun
 
 3.	## Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 
+
 •	Balanced Accuracy Score:
 
 
@@ -171,6 +173,7 @@ You have worked over the last few weeks, mentoring with Jill to gain a backgroun
 
 
 ### Easy Ensemble Classifier
+
 
 •	Balanced Accuracy Score:
 
