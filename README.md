@@ -56,7 +56,9 @@ You have worked over the last few weeks, mentoring with Jill to gain a backgroun
 
 •	Classification Report:
 
-![alttext](https://github.com/mbehr11/Credit_Risk_Analysis/blob/mainResources/classification_report_logistic.PNG)
+
+![alttext](https://github.com/mbehr11/Credit_Risk_Analysis/blob/main/Resources/classification_report_logistic.PNG)
+
 
 ## Smote Oversampling:
 
