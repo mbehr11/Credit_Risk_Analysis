@@ -22,7 +22,8 @@ You have worked over the last few weeks, mentoring with Jill to gain a backgroun
 •	Create the training variables by converting the string values into numerical ones using the get_dummies() method:
 
 
-![alttext](https://github.com/mbehr11/Credit_Risk_Analysis/blob/main/Resources/getdummies_method .PNG) 
+![alttext](https://github.com/mbehr11/Credit_Risk_Analysis/blob/main/Resources/get_dummies_method.PNG) 
+
 
 •	Create the target variables:
 
